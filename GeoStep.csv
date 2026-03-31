@@ -1,0 +1,8 @@
+Match ID,Region,League,Home Team,Away Team,Home Prob %,Draw Prob %,Away Prob %,Bookie Odds,Value Edge %,Status,Access Level
+101,UK,Premier League,Arsenal,Chelsea,65,20,15,1.85,+10.5, HIGH VALUE,Free
+102,UK,Championship,Leeds,Burnley,40,30,30,2.50,-2.1,No Value,Free
+201,Europe,La Liga,Real Madrid,Barcelona,45,25,30,2.10,+4.2,Moderate Value,Starter
+202,Europe,Bundesliga,Bayern Munich,Dortmund,55,20,25,1.95,+2.8,Moderate Value,Starter
+301,World,Egypt Premier,Al Ahly,Zamalek,50,30,20,2.40,+12.4, HIGH VALUE,Pro
+302,World,Brazil Serie A,Flamengo,Palmeiras,42,28,30,2.60,+3.5,Moderate Value,Pro
+303,World,U21 Euro,England U21,Spain U21,38,22,40,2.85,+6.2, HIGH VALUE,Pro 
